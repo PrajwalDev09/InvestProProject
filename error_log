@@ -1,0 +1,31 @@
+[13-Jan-2021 11:23:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 11:23:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 11:23:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 11:24:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 11:24:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 11:24:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 11:28:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 11:28:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 11:28:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 11:29:16 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 11:29:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 11:29:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 11:33:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 11:33:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 11:33:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 11:36:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 11:36:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 11:36:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 11:37:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 11:37:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 11:37:12 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 22:16:49 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 22:16:49 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 22:16:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 22:16:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 22:16:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 22:16:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 22:16:54 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 3
+[13-Jan-2021 22:16:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 5
+[13-Jan-2021 22:16:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
+[13-Jan-2021 23:39:11 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mrsen/investpro.webplugintheme.com/config/view.php on line 6
