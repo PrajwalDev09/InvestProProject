@@ -1,5 +1,6 @@
 Problem Statement:
 To design and develop an Online Platform for Entrepreneurs and Investors to collaborate in startups fostering innovation and growth.
+</br>
 Project Objective:
 Connect entrepreneurs with potential investors to secure the necessary funding for their innovative ventures.
 Simplify the investment process for investors by providing a user-friendly platform to search for and invest in promising startups.
@@ -7,6 +8,7 @@ Offer valuable resources and mentorship to entrepreneurs, helping them develop s
 Build a community of entrepreneurs and investors, fostering collaboration, and knowledge-sharing.
 Support the growth of startups across India, particularly those led by young and underrepresented entrepreneurs.
 Provide transparency and crucial information about startups to help investors make informed investment decisions.
+</br>
 Proposed Solution:
 The platform will provide entrepreneurs with the opportunity to showcase their innovative ideas and ventures and attract funding from interested investors. In addition, the platform will offer a range of expert guidance and resources to entrepreneurs, including advice on developing successful business models, marketing strategies, and more. Overall, the proposed solution aims to enhance transparency and trust between investors and entrepreneurs by providing a clear site-map of a startup's background, products, and other key information. This will help investors make informed investment decisions and give entrepreneurs the resources they need to succeed.
 
