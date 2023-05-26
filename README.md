@@ -1,3 +1,19 @@
+Problem Statement:
+To design and develop an Online Platform for Entrepreneurs and Investors to collaborate in startups fostering innovation and growth.
+Project Objective:
+Connect entrepreneurs with potential investors to secure the necessary funding for their innovative ventures.
+Simplify the investment process for investors by providing a user-friendly platform to search for and invest in promising startups.
+Offer valuable resources and mentorship to entrepreneurs, helping them develop successful business strategies.
+Build a community of entrepreneurs and investors, fostering collaboration, and knowledge-sharing.
+Support the growth of startups across India, particularly those led by young and underrepresented entrepreneurs.
+Provide transparency and crucial information about startups to help investors make informed investment decisions.
+Proposed Solution:
+The platform will provide entrepreneurs with the opportunity to showcase their innovative ideas and ventures and attract funding from interested investors. In addition, the platform will offer a range of expert guidance and resources to entrepreneurs, including advice on developing successful business models, marketing strategies, and more. Overall, the proposed solution aims to enhance transparency and trust between investors and entrepreneurs by providing a clear site-map of a startup's background, products, and other key information. This will help investors make informed investment decisions and give entrepreneurs the resources they need to succeed.
+
+
+![image](https://github.com/PrajwalDev9/InvestProProject/assets/73089657/533259f1-7e6b-43da-87ab-75c694e94724)
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -20,47 +36,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
 
 ## Contributing
 
